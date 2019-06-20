@@ -1,4 +1,3 @@
-
 //This is a simple led blinking code that delays for 1 second.
 //author Codeninja Owen 
 #define LED 11
@@ -13,7 +12,7 @@ void setup() {
 
 }
 
-void loop() {
+void loop() { //This where the code gets executted
   
   digitalWrite(11, HIGH);// Lights On the LED upon uploading the code to the uno board
   delay(1000);
