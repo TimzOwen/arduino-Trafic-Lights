@@ -13,6 +13,7 @@ void setup() {
 }
 
 void loop() { //This where the code gets executted
+  //Also gives all functionality of the application
   
   digitalWrite(11, HIGH);// Lights On the LED upon uploading the code to the uno board
   delay(1000);
