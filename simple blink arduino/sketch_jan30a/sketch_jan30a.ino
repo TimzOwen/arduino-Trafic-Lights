@@ -29,5 +29,5 @@ void loop() { //This where the code gets executted
   delay(1000);
   
   digitalWrite(3, LOW);//Turms off the LED after 1second of delay
-  delay(1000);
+  delay(1000); 
 }
