@@ -9,6 +9,7 @@ void setup() {
   pinMode(11, OUTPUT);// sets LED to pin mode 12
   pinMode(5, OUTPUT);//
   pinMode(3, OUTPUT);//
+  pinMode(4, OUTPUT) // adddedd the alarm ringer 
 
 }
 
